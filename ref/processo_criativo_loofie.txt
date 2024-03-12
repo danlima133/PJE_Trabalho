@@ -1,0 +1,9 @@
+Dar vida a uma ideia como um personagem, uma animação ou uma pixel art pode ser uma tarefa difícil se executada de maneira errada, e uma forma bastante eficiente é dividindo o trabalho em etapas. Por exemplo, apesar de meu objetivo principal ser criar animações para dar vida aos personagens do jogo, não começo direto por essa parte. Antes da animação, faço outras artes de diferentes tipos, que servem com um guia e, aos poucos, passo a passo, vou moldando o trabalho. Dito isso, torna-se relevante detalhar que etapas são essas e como elas se relacionam nesse processo.
+
+A primeira etapa é design de personagem. Aqui, eu foco em definir uma identidade visual para o personagem, levando em consideração informações como aparência, personalidade e contexto da narrativa. Essa fase é muito importante para estabelecer uma base firme antes de começar a trabalhar na animação. Acredito que um design de personagem bem elaborado serve como guia para o processo.
+
+A segunda etapa consiste de fazer alguns esboços pré-animação, definindo alguns elementos como poses, ângulos e efeitos visuais. Os esboços servem como um esqueleto e ajudam a deixar animação mais consistente. Assim, eu posso ajustar detalhes antes de partir para a animação de fato, corrigido possíveis erros e evitando trabalho desnecessário, uma vez que as animação são feitas quadro por quadro.
+
+Na última etapa, a animação do personagem, é onde eu trabalho em cada quadro para dar vida ao personagem imaginado e já desenhado. Esse processo requer muita atenção e criatividade para resolver os problemas que surgem pelo caminho. Seguindo essa sequência estabelecida, posso passar uma narrativa visual que ajuda captar a atenção do jogador.
+
+Em conclusão, a utilização de etapas é minha principal maneira de criar animações. Começar com o design de personagem, passar pelos esboços pré-animação e, por fim, a animação em si é uma forma de evoluir o projeto gradualmente e de forma controlada. 
